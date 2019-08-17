@@ -1,0 +1,2 @@
+module Player::ClipsHelper
+end
